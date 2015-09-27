@@ -1,0 +1,11 @@
+frm_main = 454, 128, 848, 828, C, 0, 0, 0, 0, C
+frm_login = 236, 89, 1062, 732, C, 0, 0, 0, 0, C
+frm_group = 583, 71, 1440, 771, C, 0, 0, 0, 0, C
+frm_employee = 354, 98, 1360, 788, C, 0, 0, 0, 0, C
+frm_integral = 777, 172, 1347, 834, C, 0, 0, 0, 0, C
+frm_integral_list = 15, 316, 1382, 927, C, 0, 0, 0, 0, C
+frm_intergral_sum = -4, 230, 1342, 731, CZ, 0, 0, 0, 0, C
+sub_main = 439, 117, 1343, 817, C
+frm_menger = 367, 15, 1163, 878, C, 0, 0, 0, 0, C
+frm_pwd_change = 559, 71, 1245, 771, C, 0, 0, 0, 0, C
+frm_integral_in = 763, 22, 1393, 665, C, 0, 0, 0, 0, C
